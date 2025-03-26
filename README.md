@@ -1,2 +1,2 @@
 # Ignite-Teams
-Projeto Ignite Teams feito com React Native no curso da Rocketseat.
+Projeto Ignite Teams feito com React Native e React Navigation no curso da Rocketseat.
